@@ -1,0 +1,15 @@
+{
+  "name": "bigbrother",
+  "version": "0.1.0",
+  "author": "vers_us",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-qunit": "*",
+    "grunt-contrib-uglify": "^4.0.1",
+    "matchdep": "*"
+  }
+}
